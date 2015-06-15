@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.mazika.Islamona</string>
+				<string>com.mazika.Islamiyate</string>
 				<key>bundle-version</key>
 				<string>2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Islamona</string>
+				<string>Islamiyate</string>
 			</dict>
 		</dict>
 	</array>
